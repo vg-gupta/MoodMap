@@ -1,4 +1,3 @@
-Here's a compelling **README** for your **MoodMap** application using **Microsoft Azure Cognitive Sentiment Analysis** for customer sentiment detection:  
 
 ---
 
